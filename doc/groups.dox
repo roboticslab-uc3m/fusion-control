@@ -1,0 +1,33 @@
+
+/**
+@brief The main, catch-all namespace for TEO.
+ */
+namespace teo {}
+
+/**
+ * \defgroup fusion-control_libraries fusion-control Libraries
+ *
+ * @brief fusion-control libraries.
+ *
+ */
+
+/**
+ * \defgroup fusion-control_programs fusion-control Programs
+ *
+ * @brief fusion-control programs.
+ */
+
+/**
+ * \defgroup fusion-control_applications fusion-control Applications (Collections of Programs)
+ *
+ * @brief fusion-control applications (collections of programs).
+ */
+
+/**
+ * \defgroup fusion-control_examples fusion-control Examples
+ *
+ * @brief fusion-control examples.
+ */
+
+
+
